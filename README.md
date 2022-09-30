@@ -8,3 +8,5 @@ Tools:
 3. Javascript
 4. ReactJs
 5. Rest Api
+
+## **Authors: Ahmed Younis, Veranika Ivanova**
