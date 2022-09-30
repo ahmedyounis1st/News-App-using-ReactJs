@@ -1,5 +1,7 @@
 # News-App-using-ReactJs
 
+A live news in web-page using Rest API and ReactJs
+
 Run using npm start
 
 Tools:
